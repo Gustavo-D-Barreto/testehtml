@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>primeiro exerc</title>
+    <style>
+        h1 {
+            color: dimgray;
+            background-color: lightgoldenrodyellow;
+        }
+        body{
+            background-image: linear-gradient(to right, #0B2B40, #164773,#1E5959);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+        }
+        p {
+            text-align: justify;
+        }
+        main{
+            background-color: white;
+            width: 600px;
+            border-radius: 10px;
+            padding: 10px;
+            margin: left;
+        }
+    </style>
+
+</head>
+<body>
+    <h1> ola mundo </h1>
+    <hr>
+    <p>  la vamos nos denovo  </p>
+    <p> chegar la mandando bem </p>
+    <img src="779a86205b74af7265b1d84a44a185bc.webp" alt="rick and morty"> <!-- da pra fazer com url tbm-->
+    <h1> trabalhando com listas </h1>
+    <h2> listas 'OL' ordenadas </h2>
+    <ol>
+        <li> acordar</li>
+        <li> ir trabalhar</li>
+        <li> almossar kkk</li>
+        <li> ir pra etec</li>
+    </ol>
+    <h2> listas 'UL' nao ordenadas </h2>
+    <ul type="square">
+        <li> torta</li>
+        <li> bolo de morango</li>
+        <li> arroz e feijao</li>
+    </ul>
+    <main>
+    <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea harum autem quos tempora, fugiat temporibus dolore vel inventore repellat unde rem, velit consequuntur repudiandae possimus. Exercitationem nisi dicta porro. Ipsam? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel cupiditate dolor enim! Nobis libero, similique laboriosam explicabo, enim harum quod quos iure adipisci porro error omnis reiciendis ratione veniam sequi!</p>
+    <h2> meus mangas preferidos </h2>
+    <main>
+        <ol>
+        <li> shonens </li>
+        <ol type="a">
+            <li>one piece</li>
+            <li>hunter hunter</li>
+            <Li>jujutsu</Li>
+        </ol>
+        <li>seinens</li>
+        <ol types="a" start="4">
+            <li>vinland</li>
+            <li>bersek</li>
+            <li>madoka</li>
+        </ol>
+    </main>
+    </ol>
+    <h1>usando link externo</h1>
+    <p> voce pode acessar meu <a href="https://twitter.com/Ace_shouko" target="_blank"> twitter </a>
+
+    </p>
+
+</body>
+</html>
